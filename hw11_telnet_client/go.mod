@@ -1,4 +1,4 @@
-module github.com/mariyaosipenko/hw11_telnet_client
+module github.com/mariyaosipenko/otus/hw11_telnet_client
 
 go 1.19
 

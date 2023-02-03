@@ -1,4 +1,4 @@
-module github.com/mariyaosipenko/hw01_hello_otus
+module github.com/mariyaosipenko/otus/hw01_hello_otus
 
 go 1.19
 

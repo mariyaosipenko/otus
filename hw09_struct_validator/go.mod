@@ -1,3 +1,3 @@
-module github.com/mariyaosipenko/hw09_struct_validator
+module github.com/mariyaosipenko/otus/hw09_struct_validator
 
 go 1.19

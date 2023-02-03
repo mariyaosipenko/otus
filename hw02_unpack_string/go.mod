@@ -1,4 +1,4 @@
-module github.com/mariyaosipenko/hw02_unpack_string
+module github.com/mariyaosipenko/otus/hw02_unpack_string
 
 go 1.19
 

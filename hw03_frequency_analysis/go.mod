@@ -1,4 +1,4 @@
-module github.com/mariyaosipenko/hw03_frequency_analysis
+module github.com/mariyaosipenko/otus/hw03_frequency_analysis
 
 go 1.19
 

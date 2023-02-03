@@ -1,4 +1,4 @@
-module github.com/mariyaosipenko/hw06_pipeline_execution
+module github.com/mariyaosipenko/otus/hw06_pipeline_execution
 
 go 1.19
 

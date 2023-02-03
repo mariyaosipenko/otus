@@ -1,4 +1,4 @@
-module github.com/mariyaosipenko/hw05_parallel_execution
+module github.com/mariyaosipenko/otus/hw05_parallel_execution
 
 go 1.19
 
